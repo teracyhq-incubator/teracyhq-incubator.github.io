@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  numero-members-app-report:
+  - apiVersion: v1
+    created: 2017-11-21T15:04:45.313254195Z
+    description: A Helm chart for Kubernetes
+    digest: 4d9c21b196acd9a8f2fe5d0e72fa5723ff29a4d64abfe4a0be7c0b1eaf6f66b0
+    name: numero-members-app-report
+    urls:
+    - http://teracyhq-incubator.github.io/numero-members-app-report-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-11-21T15:04:45.312651942Z
